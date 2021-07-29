@@ -25,5 +25,5 @@
   
   <img align="left" alt="Anuj Soni GitHub Stats" src="https://github-readme-stats-git-master.anirudh-jwala.vercel.app/api?username=anujsoni10001&show_icons=true&hide_border=true" />
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-jwala&" alt="anirudh-jwala" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujsoni10001&" alt="anirudh-jwala" />
 </details>
