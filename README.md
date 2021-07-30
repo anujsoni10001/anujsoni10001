@@ -14,7 +14,7 @@
 <img src="https://encriss.com/encriss/wp-content/uploads/2019/04/springBoot_featured_image-1.png" width="90px" height="28px"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
 
 ### 🎧 Spotify playing
-![Spotify](https://novatorem-git-master.anujsoni10001.vercel.app/api/spotify)
+![Spotify](https://open.spotify.com/playlist/6lASaihnkIMhlW5skTLBI1?si=Qg6ZhFFRTlK6nB0ZUsAdIA&utm_source=copy-link&dl_branch=1&nd=1)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
