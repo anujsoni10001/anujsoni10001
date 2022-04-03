@@ -1,7 +1,7 @@
 ### Hi there, I'm Anuj👋
 
-- 🔭 I’m currently working on building beautiful web application with JavaScript
-- 🌱 I learn something new in JavaScript everyday
+- 🔭 I’m currently working on building beautiful iOS & iPad application with Swift Programming
+- 🌱 I learn something new in Swift Programming everyday
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsoni10001)
 
